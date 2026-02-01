@@ -1,6 +1,8 @@
 # 💫 About Me:
-- CS @ UMass Amherst<br>- Software Engineering Intern @ Dell (x2)<br>- Full‑stack + Backend + AI + QA<br>- Constantly exploring new technologies and pushing myself through challenging projects and research<br><br>
-
+- CS @ UMass Amherst  
+- Software Engineering Intern @ Dell (x2)  
+- Full‑stack + Backend + AI + QA  
+- Constantly exploring new technologies and pushing myself through challenging projects and research  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ohosman04) 
